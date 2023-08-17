@@ -1,3 +1,12 @@
+# LeetCode SQL Solutions
+
+This repository contains my solutions to various database problems from LeetCode, implemented using MySQL. Each problem is categorized based on its difficulty level and includes the problem's title, my solution, and the corresponding difficulty.
+
+## About
+
+LeetCode is a platform for practicing coding skills, and it includes a wide range of problems to solve. This repository showcases my solutions to database-related problems using MySQL. The solutions are organized by problem number, making it easy to find and review each solution.
+
+
 | # | Title | Solution | Difficulty |
 |----------|----------|----------|----------|
 | 175 | [Combine Two Tables][Prob175] | [MySQL][MySQL175] | Easy |
